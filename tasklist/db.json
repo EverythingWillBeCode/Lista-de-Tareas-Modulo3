@@ -17,12 +17,6 @@
       "day": "Agosto 5 a las 19:00",
       "reminder": true,
       "id": 3
-    },
-    {
-      "text": "Nueva Tarea",
-      "day": "hoy a las 19:30",
-      "reminder": false,
-      "id": 4
     }
   ]
 }
